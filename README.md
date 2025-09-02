@@ -18,4 +18,6 @@ O software é totalmente funcional offline e utiliza Python como linguagem princ
 - **SQLite** – banco de dados para persistência offline.
 - **VSCode** – ambiente de desenvolvimento recomendado.
 
+## Utilização
+Esse software foi desenvolvido para não necessitar instalações, desse modo, pode-se fazer o download apenas do arquivo CA$CALHO.exe e executar sem a necessidade de maiores procedimentos 
 
